@@ -74,7 +74,7 @@
 ## 🎵 My Spotify Recently Played
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ij6uqjss7msfirif5uze663ga4&unique=true&count=5" alt="Ashwini's Spotify Recently Played" width="400" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ij6uqjss7msfirif5uze663ga4&unique=true&count=2" alt="Ashwini's Spotify Recently Played" width="400" />
 </p>
 
 ---
