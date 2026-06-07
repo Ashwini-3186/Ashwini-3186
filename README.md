@@ -1,48 +1,78 @@
-## Hi there 👋
-
 # Hi 👋, I'm Ashwini Kumari
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 🎓 Computer Science Engineering Student
 
-💻 Learning Full Stack Development
+💻 Full Stack Web Developer (MERN)
 
-🌱 Currently Learning:
-- React
-- Node.js
-- Express.js
-- MongoDB
-- DSA in C++
+📚 Solving DSA in C++
 
-🚀 Goal:
-To become a Software Engineer and crack top product-based companies.
-## Connect With Me
+🚀 Building real-world projects with React, Node.js, Express.js, and MongoDB
 
-LinkedIn: https://www.linkedin.com/in/ashwini-kumari-5888b631a/
+🌱 Currently learning Backend Development & System Design
 
-Email: meets.ashwini@gmail.com
+⚡ Fun fact: I enjoy solving coding problems and building practical applications.
 
-## Tech Stack
+---
 
+## 🚀 About Me
+
+- 🎓 CSE Student
+- 💻 MERN Stack Developer
+- 🧠 Data Structures & Algorithms Enthusiast
+- 🌱 Learning Advanced Backend Development
+- 🎯 Goal: Software Engineer at a Product-Based Company
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/ashwini-kumari-5888b631a/)
+
+📧 Email: meets.ashwini@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
+### Programming
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-## GitHub Stats
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ashwini-3186&show_icons=true)
+## 📊 GitHub Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini-3186&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwini-3186&show_icons=true&theme=tokyonight)
 
-## Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashwini-3186&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashwini-3186)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini-3186&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 Current Projects
+
+- Smart Career Path Finder
+- MERN Authentication System
+- E-Commerce Website
+- React Note Saver App
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Ashwini-3186)
