@@ -64,6 +64,13 @@
 ---
 
 ## 🏆 Current Projects
+### 🔄 Vini OpenRouter Code Translator
+An intelligent, multi-model VS Code extension that seamlessly converts single files or entire codebases between 15+ programming languages.
+
+* **Multi-Model Ensemble:** Queries **Claude 3 Haiku**, **GPT-4o**, and **DeepSeek-V3.2** simultaneously, running validation algorithms to select the highest-quality output.
+* **Project-Wide Mapping:** Preserves full repository directory architecture while isolating the output safely into a `converted/` workspace directory.
+* **Production Ready:** Automates edge-case cleanups, filters out bloat directories (`node_modules`, `.git`), and features an optional secondary code-simplification pass.
+* **Tech Stack:** TypeScript, VS Code Ext API, OpenRouter API, Node.js, Dotenv.
 
 
 ---
