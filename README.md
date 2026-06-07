@@ -55,12 +55,11 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwini-3186&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwini-3186&show_icons=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashwini-3186&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini-3186&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini-3186&layout=compact&cache_seconds=1800)
 
 ---
 
